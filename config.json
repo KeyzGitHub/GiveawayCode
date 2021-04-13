@@ -1,0 +1,6 @@
+{
+  "token": "YourBotToken", 
+  "prefix": "BOTPREFIX",
+  "everyoneMention": false,
+  "hostedBy": true
+}
